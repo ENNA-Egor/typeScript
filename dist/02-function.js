@@ -1,4 +1,5 @@
 "use strict";
+//Базовая типизация объектов
 function slice(str, start, end) {
     let newStr = '';
     let lastIndex;
