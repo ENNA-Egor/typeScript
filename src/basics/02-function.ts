@@ -1,6 +1,6 @@
 //Базовая типизация объектов
 
-function slice(str: string, start: number, end ?: number) :string {
+export function slice(str: string, start: number, end ?: number) :string {
   let newStr: string = '';
  
   let lastIndex: number;
